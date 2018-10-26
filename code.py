@@ -1,5 +1,5 @@
 # OOP-with-Python
-Academic curriculum in UTDallas
+#Academic curriculum in UTDallas
 
 #Hamming Distance Function (Non-dynamic)
 # def hammingdist(str1, str2):
